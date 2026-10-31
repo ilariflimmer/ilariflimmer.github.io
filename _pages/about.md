@@ -13,15 +13,11 @@ Before moving to Finland, I qualified as a lawyer at the University of Chile and
 
 Research
 ======
-Trained as a lawyer and computer scientist, I aim to build trustworthy, reproducible machine-learning methods that turn legal text into structured representations. My research integrates natural language processing, network science and representation learning with knowledge from law, institutional theory and social sciences toward computational legal design to address societal problems.
+Trained as a lawyer and computer scientist, I aim to build trustworthy, reproducible machine-learning methods that enable the computational study of legal systems. My research integrates natural language processing, network science and representation learning with knowledge from law, institutional theory and social sciences toward computational legal design to address societal problems.
 
 - **From Constitutions to Legal Structure** (M.Sc. thesis): a computational implementation of Elinor Ostrom's Grammar of Institutions. It uses fine-tuned open-weight LLMs to decompose constitutions into institutional statements, and network methods to model how power is distributed.
 - **Parliaments beyond Borders:** why do parliaments mention other nations? A study of parliamentary debates from 29 European countries, using the ParlaMint corpora.
 
-Teaching
-======
-I have taught since 2016: economics and law at the University of Chile, and computer science at Aalto University, where I am Lead Teaching Assistant for *Technology and Power*.
-
 Contact
 ======
-I am happy to hear from people interested in law, institutions and machine learning. Feel free to reach out by email.
+I am happy to hear from people interested in law, institutions and computational methods. Feel free to reach out by email.
