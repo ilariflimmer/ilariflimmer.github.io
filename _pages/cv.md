@@ -23,7 +23,7 @@ Research Experience
 ======
 
 **Research Assistant**, ERC Starting Grant *CompLex: Toward a Computational Theory of Legal Complexity*  
-Telos Lab, Aalto University, Espoo, Finland · 2025–present  
+Telos Lab, Aalto University, Espoo, Finland · Summer 2026–present  
 *From Constitutions to Legal Structure: Toward a Computational Grammar of Institutions*
 
 **Research Assistant and Summer Intern**  
