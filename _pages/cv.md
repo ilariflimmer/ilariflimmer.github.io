@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +7,58 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**M.Sc. (Tech.), Computer Science**, minor in Machine Learning  
+Aalto University, Espoo, Finland · 2025–present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**B.Sc. (Tech.), Quantum Technology**, minor in Computer Science  
+Aalto University, Espoo, Finland · 2022–2025
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Licentiate in Legal and Social Sciences (Law)**  
+University of Chile, Santiago, Chile · 2014–2020
 
-Publications
+Research Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+**Research Assistant**, ERC Starting Grant *CompLex: Toward a Computational Theory of Legal Complexity*  
+Telos Lab, Aalto University, Espoo, Finland · 2025–present  
+*From Constitutions to Legal Structure: Toward a Computational Grammar of Institutions*
+
+**Research Assistant and Summer Intern**  
+Telos Lab, Aalto University, Espoo, Finland · 2025–2026  
+*Parliaments beyond Borders: Exploring the Role of Foreign Nations in National Policy Debates*
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+**Teaching Assistant**, Aalto University, Department of Computer Science · 2024–2026  
+Technology and Power (Lead), Autumn 2026 · Data Structures and Algorithms, Autumn 2024 and 2025 · Information Visualization, Spring 2025
+
+**Teaching Assistant**, University of Chile, Faculty of Law · 2016–2021  
+Commercial Law, 2019–2021 · Procedural Law, 2019–2021 · Microeconomics and Macroeconomics, 2016–2020
+
+Leadership
 ======
-* Currently signed in to 43 different slack teams
+
+**Lead Teaching Assistant**, *Technology and Power*  
+Aalto University, Espoo, Finland · Autumn 2026
+
+**Group Leader**, DHH26 Helsinki Digital Humanities Hackathon  
+University of Helsinki, Helsinki, Finland · Spring 2026
+
+**Co-Founder**, Preuniversitario Popular Peñaflor  
+Peñaflor, Chile · 2015–2017
+
+Legal Experience
+======
+
+**Judge's Assistant**, Civil Court, Judiciary of Chile  
+Santiago, Chile · 2022
+
+**Legal Intern**, Corporación de Asistencia Judicial (Legal Aid Corporation)  
+Santiago, Chile · 2021
+
+**Paralegal**, Claro & Cía.  
+Santiago, Chile · 2017–2019

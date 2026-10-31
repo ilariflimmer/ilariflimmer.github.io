@@ -8,11 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "Leadership"
-    url: /leadership/
+  - title: "CV"
+    url: /cv/
 
   # Not used for now. Remove the "#" to show them in the menu again.
   # - title: "Publications"
@@ -27,8 +24,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  # - title: "CV"
-  #   url: /cv/
+  # - title: "Teaching"
+  #   url: /teaching/
 
   # - title: "Guide"
   #   url: /markdown/
