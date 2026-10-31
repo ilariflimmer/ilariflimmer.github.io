@@ -23,7 +23,7 @@ repository               : "ilariflimmer/ilariflimmer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ilari.jpeg"
   name             : "Ilari Korpimäki"
   pronouns         : # example: "she/her"  
   bio              : "Responsible AI · Computational Methods · Law · Institutions"
